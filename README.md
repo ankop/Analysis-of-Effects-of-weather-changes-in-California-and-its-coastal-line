@@ -1,2 +1,2 @@
 # Analysis-of-Effects-of-weather-changes-in-California-and-its-coastal-line
-The project is a done for  a capstone course in which the students focus on the practice of data analysis, and both statistical and computational reasoning. They work on all steps in the data pipeline and workflow to get authentic experience in analyzing and working with data.
+The project is a part of final submission for a capstone course(STA 160: Practice in Statistical Data Science) at UC Davis. Details about the nature of the course can be found here(https://statistics.ucdavis.edu/expanded-descriptions/160).
